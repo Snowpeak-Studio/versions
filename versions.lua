@@ -17,6 +17,6 @@ return {
     },
     ['sp_interaction'] = {
         version = "0.0.3",
-        security = "0.0.3"
+        security = "0.0.2"
     }
 }
