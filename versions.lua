@@ -3,6 +3,10 @@ return {
         version = "0.0.3",
         security = "0.0.3"
     },
+    ['sp_farming'] = {
+        version = "0.0.1",
+        security = "0.0.1"
+    },
     ['sp_banking'] = {
         version = "0.0.1",
         security = "0.0.1"
