@@ -1,7 +1,7 @@
 return {
     ['sp_utils'] = {
-        version = "0.0.3",
-        security = "0.0.3"
+        version = "0.0.4",
+        security = "0.0.4"
     },
     ['sp_farming'] = {
         version = "0.0.1",
