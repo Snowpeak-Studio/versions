@@ -10,5 +10,9 @@ return {
     ['sp_music'] = {
         version = "0.0.1",
         security = "0.0.1"
-    } 
+    },
+    ['sp_interactions'] = {
+        version = "0.0.1",
+        security = "0.0.1"
+    }
 }
