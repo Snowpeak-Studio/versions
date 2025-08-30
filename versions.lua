@@ -1,5 +1,5 @@
 return {
-    ['sp_utils'] = {
+    ['sp_core'] = {
         version = "0.0.4",
         security = "0.0.4"
     },
