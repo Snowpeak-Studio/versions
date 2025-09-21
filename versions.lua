@@ -15,4 +15,8 @@ return {
         version = "0.0.4",
         security = "0.0.4"
     },
+    ['sp_placeables'] = {
+        version = "0.0.1",
+        security = "0.0.1"
+    }
 }
